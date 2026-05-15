@@ -1,10 +1,11 @@
-# v0 runtime files
-__v0_runtime_loader.js
-__v0_devtools.tsx
-__v0_jsx-dev-runtime.ts
+# ROMs
+*.CH8
 
-# Common ignores
-node_modules
-.next/
-.env*.local
-.DS_Store
+# Game assets
+Games/
+
+# Build output (if any)
+*.exe
+*.com
+*.obj
+*.log
